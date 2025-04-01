@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 💻 Estudante de Desenvolvimento
 
-- 🌱 I’m currently learning: Analise e Desenvolvimento de Sistemas.
+- 🌱 Graduate: Analise e Desenvolvimento de Sistemas.
 - 📫 How to reach me: guilherme1907lima@gmail.com
 
 <!--
