@@ -4,7 +4,6 @@
 - 💻 Junior Developer
 
 - 🌱 Graduate: Analise e Desenvolvimento de Sistemas.
-- 
 - 📫 How to reach me: guilherme1907lima@gmail.com
 
 <!--
